@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a MSc in Computer Science graduate with a passion for AI, Data Science, and Software Development. I'm currently working on several exciting projects, including AI-powered applications, chatbots, and SaaS platforms.
 
-🚀 About Me
 🌱 I’m currently learning RAG and Generative AI.
 👯 I’m looking to collaborate on AI and Data Science projects.
 💬 Ask me about AI, Data Science, and Web Development.
