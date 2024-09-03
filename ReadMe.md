@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm a passionate Computer Science graduate from GCWUF with an MSc in Computer Science. Currently, I'm a first-year student of ICS (Physics) and actively involved in various tech projects and hackathons. I have a strong interest in AI, data science, SEO, and social media, and I'm constantly looking to expand my knowledge in these areas.<br>
+I'm a MSc in Computer Science graduate with a passion for AI, Data Science, and Software Development. I'm currently working on several exciting projects, including AI-powered applications, chatbots, and SaaS platforms.
+
+🚀 About Me
+🌱 I’m currently learning RAG and Generative AI.
+👯 I’m looking to collaborate on AI and Data Science projects.
+💬 Ask me about AI, Data Science, and Web Development.
+📫 How to reach me: rimsha9905@gmail.com.
+⚡ Fun fact: I love coding and exploring new technologies. and I'm constantly looking to expand my knowledge in these areas.<br>
 
 
 ## 🌐 Socials:
