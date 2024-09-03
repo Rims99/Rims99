@@ -32,7 +32,9 @@ I'm a MSc in Computer Science graduate with a passion for AI, Data Science, and 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rims99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rims99&label=Profile%20views&color=0e75b6&style=flat" alt="rims99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rims99&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
