@@ -1,11 +1,11 @@
 # 💫 About Me:
 I'm a MSc in Computer Science graduate with a passion for AI, Data Science, and Software Development. I'm currently working on several exciting projects, including AI-powered applications, chatbots, and SaaS platforms.
 
-🌱 I’m currently learning RAG and Generative AI.
-👯 I’m looking to collaborate on AI and Data Science projects.
-💬 Ask me about AI, Data Science, and Web Development.
-📫 How to reach me: rimsha9905@gmail.com.
-⚡ Fun fact: I love coding and exploring new technologies. and I'm constantly looking to expand my knowledge in these areas.<br>
+- 🌱 I’m currently learning RAG and Generative AI.
+- 👯 I’m looking to collaborate on AI and Data Science projects.
+- 💬 Ask me about AI, Data Science, and Web Development.
+- 📫 How to reach me: rimsha9905@gmail.com.
+- ⚡ Fun fact: I love coding and exploring new technologies. and I'm constantly looking to expand my knowledge in these areas.<br>
 
 
 ## 🌐 Socials:
