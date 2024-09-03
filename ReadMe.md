@@ -7,6 +7,13 @@ I'm a MSc in Computer Science graduate with a passion for AI, Data Science, and 
 - 📫 How to reach me: rimsha9905@gmail.com.
 - ⚡ Fun fact: I love coding and exploring new technologies. and I'm constantly looking to expand my knowledge in these areas.<br>
 
+## 💼 My Experience
+
+- **AI Customer Support Chatbot**: Developed an AI-powered customer support chatbot using Next.js, OpenAI API, and Material-UI. Integrated user authentication and a feedback system.
+- **Galaxy Flashcards**: Built a flashcard SaaS project using Next.js, Clerk, Firebase, and Stripe, focusing on a user-friendly interface and smooth payment integration.
+- **Rate My Professor AI Assistant**: Created an AI assistant that analyzes professor data using Pinecone, Gemini API, and Python, with advanced search and recommendation features.
+- **Pantry Tracker App**: Developed a pantry tracking application as part of the Headstarter Fellowship. Implemented features like item capitalization and streamlined item management.
+- **Personal Portfolio Website**: Designed and developed a personal portfolio website to showcase my projects, skills, and experiences. The site features a sleek UI, sections like About Me, Experience, and Skills, and is built with a modern tech stack.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rimshaataullah) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rimshaataullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rimsha-ataullah/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Rimsha-Ataullah) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/KindLet6910/) 
